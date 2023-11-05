@@ -1,0 +1,8 @@
+main
+build/
+.vscode/
+.idea/
+Makefile
+*.cmake
+CMakeCache.txt
+compiler

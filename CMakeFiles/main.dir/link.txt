@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/src/frontend/AstVisitor.cpp.o CMakeFiles/main.dir/src/frontend/SysYBaseVisitor.cpp.o CMakeFiles/main.dir/src/frontend/SysYLexer.cpp.o CMakeFiles/main.dir/src/frontend/SysYParser.cpp.o CMakeFiles/main.dir/src/frontend/SysYVisitor.cpp.o CMakeFiles/main.dir/src/frontend/ast.cpp.o CMakeFiles/main.dir/src/main.cpp.o -o main 

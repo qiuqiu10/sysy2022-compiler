@@ -1,0 +1,3 @@
+/home/qiuchengyu/sysy2022/CMakeFiles/compiler.dir
+/home/qiuchengyu/sysy2022/CMakeFiles/edit_cache.dir
+/home/qiuchengyu/sysy2022/CMakeFiles/rebuild_cache.dir
